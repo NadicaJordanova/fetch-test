@@ -1,0 +1,19 @@
+.postovi{
+    background-color: aquamarine;
+}
+
+
+.card{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+#karta{
+    display: grid;
+    gap: 10px;
+    
+}
